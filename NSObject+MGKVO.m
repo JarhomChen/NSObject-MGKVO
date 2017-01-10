@@ -11,9 +11,6 @@
 
 static const char listenedObjKVO;
 
-
-
-
 @interface MGKVOTarget : NSObject
 
 //block
