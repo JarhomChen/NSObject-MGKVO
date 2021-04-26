@@ -1,9 +1,7 @@
 //
 //  NSObject+MGKVO.h
-//  MiguDM
 //
 //  Created by 陈家宏 on 16/3/10.
-//  Copyright © 2016年 Hisun. All rights reserved.
 //
 
 /*
