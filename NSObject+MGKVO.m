@@ -1,7 +1,7 @@
 //
 //  NSObject+MGKVO.m
 //
-//  Created by 陈家宏 on 16/3/10.
+//  Created by jarhom on 16/3/10.
 //
 
 #import "NSObject+MGKVO.h"
