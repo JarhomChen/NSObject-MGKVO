@@ -1,7 +1,7 @@
 //
 //  NSObject+MGKVO.h
 //
-//  Created by 陈家宏 on 16/3/10.
+//  Created by Jarhom on 16/3/10.
 //
 
 /*
